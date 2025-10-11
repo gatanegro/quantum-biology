@@ -1,5 +1,9 @@
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17320972.svg)](https://doi.org/10.5281/zenodo.17320972)
+
+
+
 
 
 # **A Universal Mathematical Framework for Quantum Biological Optimization**
