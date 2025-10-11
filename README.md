@@ -107,4 +107,41 @@ Different organisms arrive at similar quantum solutions:
 We have demonstrated a universal mathematical framework that quantifies quantum biological optimization across fundamentally different biological processes. The Bridge Formula reveals consistent patterns of quantum coherence, evolutionary depth, and functional specialization that match known biological requirements.
 
 This work provides the first quantitative evidence for universal quantum biological principles and establishes a mathematical foundation for comparing quantum effects across biological domains. The framework offers new insights into evolutionary optimization and functional specialization in biological quantum systems.
+Released app quantum_bio_app 
 
+Credits:
+
+Credits data used for this paper:
+
+I analyzed 12 biological structures from the Protein Data Bank:
+
+- Photosynthetic (chlorophyll, pigments) 
+
+1JB0 ,PDB DOI: https://doi.org/10.2210/pdb1JB0/pdb
+
+3WU2 (PSII), PDB DOI: https://doi.org/10.2210/pdb3WU2/pdb
+      
+
+1RWT (LHCII), PDB DOI: https://doi.org/10.2210/pdb1RWT/pdb
+
+- Cryptochrome (flavin, magnetoreception) 
+
+4AGU, PDB DOI: https://doi.org/10.2210/pdb4AGU/pdb
+
+4I7R, PDB DOI: https://doi.org/10.2210/pdb4I7R/pdb
+
+6QSE (cryptochromes), PDB DOI: https://doi.org/10.2210/pdb6QSE/pdb
+
+- Vision (retinal, opsins) 
+
+1U19, PDB DOI: https://doi.org/10.2210/pdb1U19/pdb
+
+1F88, PDB DOI: https://doi.org/10.2210/pdb1F88/pdb
+
+3CAP (rhodopsins)PDB DOI: https://doi.org/10.2210/pdb3CAP/pdb
+
+-  DNA/RNA (nucleotides, repair enzymes) 
+
+1BNA, PDB DOI: https://doi.org/10.2210/pdb1BNA/pdb
+ 7R5R, PDB DOI: https://doi.org/10.2210/pdb7R5R/pdb
+6V4X (genetic systems), PDB DOI: https://doi.org/10.2210/pdb7R5R/pdb
