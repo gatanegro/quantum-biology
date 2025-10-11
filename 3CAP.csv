@@ -1,0 +1,17 @@
+VISION SYSTEMS QUANTUM ANALYSIS
+Export Time,2025-10-11 10:48:02
+System Type,vision
+Total Molecules,5
+
+QUANTUM METRICS
+Superposition Ratio,0.4000
+Mass Coherence (%),18.27
+Octave Distribution,"{0: 2, 3: 1, 5: 1, 6: 1}"
+
+DETAILED MOLECULE DATA
+Resname,Type,Mass (kg),n-value,Octave
+GLU,key_residue,2.44e-25,0.0842,0
+TYR,key_residue,3.01e-25,3.1849,3
+LYS,key_residue,2.43e-25,-0.0113,0
+TRP,key_residue,3.39e-25,4.9673,5
+CYS,key_residue,2.01e-25,-2.8077,6

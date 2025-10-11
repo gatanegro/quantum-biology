@@ -1,0 +1,33 @@
+SPIRAL RECURSIVE UNIFICATION ANALYSIS
+Export Timestamp,2025-10-11T08:44:57.411634
+Total Pigments,4
+Source Files,/home/enki/Downloads/BBRIDGE/1JB0.cif
+
+QUANTUM COHERENCE METRICS
+Pigment Count,4
+Quantum Coherence (%),50.00
+Superposition Ratio,0.5000
+Mass Tuning (CV %),16.05
+Entropy,1.0397
+Octave Distribution,"{2: 1, 8: 2, 4: 1}"
+
+SPATIAL OPTIMIZATION METRICS
+TANH Resonance:
+  Average Radius (nm),8.72
+  Spatial Optimization,0.2500
+  Resonance Stability,0.9989
+SIN Resonance:
+  Average Radius (nm),8.67
+  Spatial Optimization,0.2500
+  Resonance Stability,0.9992
+EXP Resonance:
+  Average Radius (nm),8.67
+  Spatial Optimization,0.2500
+  Resonance Stability,0.9975
+
+DETAILED PIGMENT ANALYSIS
+Resname,Mass (kg),n_mass,Octave,Radius Tanh (nm),Radius Sin (nm),Radius Exp (nm),Energy (eV),Mass-Energy Alignment
+CLA,1.48e-24,10.7516,2,14.64,14.54,14.52,1.77,False
+PQN,1.25e-24,8.1448,8,8.44,8.40,8.39,N/A,N/A
+BCR,9.30e-25,3.7947,4,3.36,3.35,3.37,2.38,False
+LMG,1.25e-24,8.1448,8,8.44,8.40,8.39,N/A,N/A
