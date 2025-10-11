@@ -111,7 +111,7 @@ Released app quantum_bio_app
 
 Credits:
 
-Credits data used for this paper:
+## Credits data used for this paper:
 
 I analyzed 12 biological structures from the Protein Data Bank:
 
